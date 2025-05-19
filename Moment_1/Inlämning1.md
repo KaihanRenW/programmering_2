@@ -14,4 +14,6 @@ Du ska skapa grunden till ett katalogsystem där man kan visa produkter. Denna u
 - Låt användaren skriva in namn och pris via `Console.ReadLine()` och skapa en produkt baserat på det.
 
 ## Inlämning
-Lämna in din repo länk i CR.
+Push:a allt till din remote repo och lämna in din repo länk i CR.
+
+Lycka till!
