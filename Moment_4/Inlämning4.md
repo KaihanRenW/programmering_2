@@ -1,16 +1,15 @@
 
-# 📌 Programmering 2 – Moment 4: Generiska klasser och felhantering
-
-## 🎯 Uppgift
+# Inlämningsuppgift – Moment 4
+## Uppgift
 
 Skapa ett litet program där du:
 
-✅ Skapar en **generisk klass** som kan lagra olika typer av data i en lista.  
-✅ Använder **try / catch / finally** för att hantera fel när användaren matar in data.
+Skapar en **generisk klass** som kan lagra olika typer av data i en lista.  
+Använder **try / catch / finally** för att hantera fel när användaren matar in data.
 
 ---
 
-## 📝 Steg-för-steg
+## Steg-för-steg
 
 1️⃣ Skapa en generisk klass `Storage<T>`  
 - Klassen ska kunna lagra en lista med objekt av typen `T`.  
@@ -31,6 +30,6 @@ Skapa ett litet program där du:
 
 ---
 
-## 🔑 Mål
-✔ Förstå grunderna i generiska klasser.  
-✔ Öva på felhantering med try / catch / finally.
+## Mål
+Förstå grunderna i generiska klasser.  
+Öva på felhantering med try / catch / finally.
